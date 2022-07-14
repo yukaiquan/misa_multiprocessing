@@ -2,7 +2,7 @@
 
 ## 1 Installation
 
- *linux-64*
+ *linux-64*    yukaiquan 1962568272@qq.com
 
 Required software tools (third party, please install them according to instructions provided at respective links; e.g. by a conda environment):
 
