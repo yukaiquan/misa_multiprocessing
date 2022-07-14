@@ -18,7 +18,7 @@ conda install -c bioconda pybedtools
 
 ```shell
 python misa_multiprocessing.py -h
-usage: kq_misa.py [-h] [--version] -g GENOME [-c CHR] [-t THREADS]
+usage: python misa_multiprocessing.py [-h] [--version] -g GENOME [-c CHR] [-t THREADS]
 
 whole genome ssr find and primer design. Author:yukaiquan; Email:1962568272@qq.com
 
