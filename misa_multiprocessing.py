@@ -297,10 +297,10 @@ def check_options(parser):
 
 def get_options():
 
-    parser = argparse.ArgumentParser(description="whole genome ssr find and primer design. Author:yukaiquan; Email:1962568272@qq.com", prog='kq_misa.py',
+    parser = argparse.ArgumentParser(description="whole genome ssr find and primer design. Author:yukaiquan; Email:1962568272@qq.com", prog='misa_multiprocessing.py',
                                      formatter_class=argparse.RawDescriptionHelpFormatter,
                                      epilog="Example:\n"
-                                            "python kq_misa.py -g SFS.fasta -t 1\\ \n"
+                                            "python misa_multiprocessing.py -g SFS.fasta -t 1\\ \n"
                                      )
 
     parser.add_argument('--version', action='version', version='%(prog)s 1.0')
