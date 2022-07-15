@@ -93,5 +93,5 @@ CTTCGTCGGTGCAGCCAACAGTCACTAAGTCCTTATTCAGCGAACGTAACCAATCATTGGCTACCATTGGGTCAGTTGTT
 >chr1A:182555-182866
 ```
 
-.............
+
 Thiel T, Michalek W, Varshney RK, Graner A. Exploiting EST databases for the development and characterization of gene-derived SSR-markers in barley (Hordeum vulgare L.). Theor Appl Genet. 2003 Feb;106(3):411-22. doi: 10.1007/s00122-002-1031-0. Epub 2002 Sep 14. PMID: 12589540.
